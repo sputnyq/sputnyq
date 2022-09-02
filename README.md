@@ -6,4 +6,4 @@
 ### Deploy
 |Tenant||
 |---|---|
-|####DEV|[![Deploy new forms version](https://github.com/mee3003/sputnik-forms/actions/workflows/build-upload.yml/badge.svg?branch=DEV)](https://github.com/mee3003/sputnik-forms/actions/workflows/build-upload.yml)|
+|_DEV_|[![Deploy new forms version](https://github.com/mee3003/sputnik-forms/actions/workflows/build-upload.yml/badge.svg?branch=DEV)](https://github.com/mee3003/sputnik-forms/actions/workflows/build-upload.yml)|
